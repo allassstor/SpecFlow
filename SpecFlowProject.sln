@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject", "SpecFlowProject\SpecFlowProject.csproj", "{EEE9593D-EFC2-4FED-B74F-6516DE98259B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObject", "PageObject\PageObject.csproj", "{F9D9423A-535C-4A36-849E-93E81E0B359B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE9593D-EFC2-4FED-B74F-6516DE98259B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE9593D-EFC2-4FED-B74F-6516DE98259B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE9593D-EFC2-4FED-B74F-6516DE98259B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE9593D-EFC2-4FED-B74F-6516DE98259B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D9423A-535C-4A36-849E-93E81E0B359B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D9423A-535C-4A36-849E-93E81E0B359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D9423A-535C-4A36-849E-93E81E0B359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D9423A-535C-4A36-849E-93E81E0B359B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D0E39E-870C-4248-8ECD-1CAA276ACDDC}
+	EndGlobalSection
+EndGlobal

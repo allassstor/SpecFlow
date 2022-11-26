@@ -1,0 +1,12 @@
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\selenium-manager\linux\selenium-manager
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\selenium-manager\macos\selenium-manager
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\PageObject.deps.json
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\PageObject.dll
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\bin\Debug\netstandard2.0\PageObject.pdb
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.dll
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.pdb
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\TEST\SpecFlowProject\PageObject\obj\Debug\netstandard2.0\PageObject.csprojAssemblyReference.cache
